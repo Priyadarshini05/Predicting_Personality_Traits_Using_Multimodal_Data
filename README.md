@@ -41,7 +41,8 @@ RF trained on single modality (biological signals) was compared with RF trained 
 
 # Acknowledgement
 
-
+Reference Repo: [Repo](https://github.com/pokang-liu/AMIGOS/blob/master/main.py)
+Pupil diameter equation: [Link](https://www.geeksforgeeks.org/equation-of-circle-when-three-points-on-the-circle-are-given/)
 
 
 
